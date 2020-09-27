@@ -1,6 +1,6 @@
 # Kalman application to stocks
 
-Application of the standard and extended Kalman filters to an AR-N Model (autoregressive model) that intends to represent the variation of stocks in time. These algorithms were principally applied to the Bitcoin value time series.
+Application of the standard and extended Kalman filters to an AR-N Model (autoregressive model) that intends to represent the variation of assets in time. These algorithms were principally applied to the Bitcoin value time series.
 
 __Author: Gonzalo Quintana__
 
